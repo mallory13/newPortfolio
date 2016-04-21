@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D24135;}
+	.st1{fill:#4A5E5D;}
+	.st2{fill:#414C4B;}
+	.st3{fill:none;stroke:#414C4B;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#252828;stroke-miterlimit:10;}
+</style>
+<g id="base">
+</g>
+<g id="home">
+	<g>
+		<circle class="st0" cx="212.8" cy="147.8" r="29.6"/>
+		<polygon class="st1" points="230.8,139.2 217.9,138.4 225,127.7 		"/>
+		<path class="st1" d="M231.9,142l-31.3,20.6c-2.5,1.7-6,1-7.6-1.6v0c-1.7-2.5-1-6,1.6-7.6l31.3-20.6c2.5-1.7,6-1,7.6,1.6l0,0
+			C235.2,136.9,234.5,140.4,231.9,142z"/>
+		<circle class="st2" cx="196.8" cy="159.1" r="3.5"/>
+		<circle class="st3" cx="197.3" cy="158.6" r="5.1"/>
+		<line class="st3" x1="197.3" y1="153.5" x2="225.9" y2="132.8"/>
+		<line class="st4" x1="204.9" y1="155" x2="216.9" y2="147.3"/>
+		<line class="st4" x1="206.9" y1="157" x2="218.9" y2="149.3"/>
+		<line class="st4" x1="219.9" y1="144" x2="231.9" y2="136.3"/>
+		<line class="st4" x1="219.9" y1="147" x2="231.9" y2="139.3"/>
+	</g>
+</g>
+</svg>
